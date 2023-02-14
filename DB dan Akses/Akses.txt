@@ -1,0 +1,9 @@
+URL :http://localhost/pos/
+
+User :
+Administrator
+Username : admin
+Password : admin
+Kasir
+Username : kasir
+Password : kasir
