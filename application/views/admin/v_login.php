@@ -4,7 +4,7 @@
     <title>RiFaFi Computer - POS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Produk By FADLILLAH.com">
-    <meta name="author" content="FADLILLAH, A.M. Kom, A.Md">
+    <meta name="author" content="FADLILLAH, A.Md">
     <!-- Bootstrap -->
     <link href="<?php echo base_url().'assets/css/bootstrap.min.css'?>" rel="stylesheet">
     <!-- styles -->
@@ -33,7 +33,7 @@
 			            </div>
 			        </div>
 			        <div class="already">
-					Creator by FADLILLAH, A.M. Kom, A.Md			            
+					Creator by FADLILLAH, A.Md			            
 			        </div>
 			    </div>
 			</div>

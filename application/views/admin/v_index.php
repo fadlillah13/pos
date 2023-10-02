@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Produk By FADLILLAH.com">
-    <meta name="author" content="FADLILLAH, A.M. Kom, A.Md">
+    <meta name="author" content="FADLILLAH, A.Md">
     
     <title>RiFaFi Computer - POS</title>
     

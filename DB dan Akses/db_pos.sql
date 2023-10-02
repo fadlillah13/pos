@@ -222,8 +222,8 @@ CREATE TABLE IF NOT EXISTS `tbl_user` (
 --
 
 INSERT INTO `tbl_user` (`user_id`, `user_nama`, `user_username`, `user_password`, `user_level`, `user_status`) VALUES
-(1, 'FADLILLAH, A.M. Kom, A.Md', 'admin', '21232f297a57a5a743894a0e4a801fc3', '1', '1'),
-(2, 'FADLILLAH, A.M. Kom, A.Md', 'kasir', 'c7911af3adbd12a035b289556d96470a', '2', '1');
+(1, 'FADLILLAH, A.Md', 'admin', '21232f297a57a5a743894a0e4a801fc3', '1', '1'),
+(2, 'FADLILLAH, A.Md', 'kasir', 'c7911af3adbd12a035b289556d96470a', '2', '1');
 
 --
 -- Constraints for dumped tables

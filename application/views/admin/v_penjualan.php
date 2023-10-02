@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Produk By FADLILLAH.com">
-    <meta name="author" content="FADLILLAH, A.M. Kom, A.Md">
+    <meta name="author" content="FADLILLAH, A.Md">
 
     <title>Transaksi Penjualan</title>
 
@@ -201,7 +201,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p style="text-align:center;">Copyright &copy; <?php echo '2023';?> by FADLILLAH, A.M. Kom, A.Md</p>
+                    <p style="text-align:center;">Copyright &copy; <?php echo '2023';?> by FADLILLAH, A.Md</p>
                 </div>
             </div>
             <!-- /.row -->
